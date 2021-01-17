@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+        "id":1,
+        "nama_prod":"Malam Minggu Mingko Movie",
+        "nama_job":"Sponsorship, Media Partner, Events, Digital Campaign, Brand Activities, Sales Leverage",
+        "detail_job" : "Berniaga.com, Kacang Garuda,  Hotels for Roadshow, 30 Media partners, in 5 cities, Gala Premiere, Press Screening, Nobar,Meet and Greet, Talkshow, Interview, Road Show"
+    },
+    {
+        "id":2,
+        "nama_prod":"Janji Hati",
+        "nama_job":"Sponsorship, Media Partner, Events, Media Placement, Digital Campaign,  Brand Activities, Sales Leverage",
+        "detail_job" : "Yamaha, Pejaten Village, Labels, Restaurants, Clothes, Insurance, 30 Media partners, in 5 cities, Gala Premiere, Press Screening, Nobar,Meet and Greet, Talkshow, Interview, 4 Days Event"
+    },
+    {
+        "id":3,
+        "nama_prod":"Stay With Me",
+        "nama_job":"Sponsorship, Media Placement, Digital Campaign, Brand Activities, Sales Leverage",
+        "detail_job" : "Huawei, Mercy, Jaguar, Metrox, Gala Premiere, Press Screening, Nobar,Meet and Greet, Talkshow, Interview, Roadshow"
+    },
+    {
+        "id":4,
+        "nama_prod":"Single",
+        "nama_job":"Sponsorship",
+        "detail_job" : "Berniaga.com, Kacang Garuda,  Hotels for Roadshow"
+    },
+    {
+        "id":5,
+        "nama_prod":"Pengabdi Setan",
+        "nama_job":"Sponsorship, Media Partner, Events, Media Placement, Digital Campaign, Brand Activities, Sales Leverage",
+        "detail_job" : "Ayana Hotel and Resort Bali, Rock Bar, Max One, Citilink, Audi"
+    },
+    {
+        "id":6,
+        "nama_prod":"The Way I Love You",
+        "nama_job":"Sponsorship, Media Partner, Events, Media Placement, Digital Campaign,  Brand Activities, Sales Leverage",
+        "detail_job" : ""
+    }
+]
+}
